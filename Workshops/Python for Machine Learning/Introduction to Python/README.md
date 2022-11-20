@@ -1,5 +1,6 @@
 # Introduction to Python
 Hello GDSC INSAT members to our second workshop, "Introduction to Python"! 😃😃
+
 In these notebooks we present the basics of Python, a very powerful, flexible and versatile programming language.
 
 ## Content:
@@ -11,7 +12,11 @@ In these notebooks we present the basics of Python, a very powerful, flexible an
     
 ## More resources:
 The best way to get better at a programming language is to practice, here are some platforms that give you just that.
-**Codewars:** https://www.codewars.com/
-**LeetCode:** https://leetcode.com/
-**Codeforces:**: https://codeforces.com/
+
+• **Codewars:** https://www.codewars.com/
+
+• **LeetCode:** https://leetcode.com/
+
+• **Codeforces:**: https://codeforces.com/
+
 I tried to rank them from the more to the less beginner friendly. 🤓
